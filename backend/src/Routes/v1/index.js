@@ -3,7 +3,11 @@ import express from 'express';
 const router = express.Router();
 
 router.get('/', (req, res) => {
-    res.send(`<h1>Hello from the microservice!</h1>`);
+    res.json({
+        message: 'Server is up and running!'
+    });
 });
+
+router.get('/chat', )
 
 export default router;
