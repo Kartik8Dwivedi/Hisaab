@@ -1,6 +1,6 @@
 // controllers go here
 
-import { chatService } from "../Services";
+import { chatService } from "../Services/index.js";
 
 class ChatController{
     async getChat(req,res){
@@ -13,7 +13,10 @@ class ChatController{
         const chatbotResponse = await chatService(prompt);
         return res.status(200).json(chatbotResponse);
         } catch (error) {
+            console.log("Error in controller layer.",error)
             res.status(500).json({ error: "Error running chatbot flow." });
         }
     }
 }
+
+export default ChatController;
