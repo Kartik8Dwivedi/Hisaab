@@ -132,6 +132,13 @@ Click on the image below to watch the video demo:
 
 ---
 
+## Deployments
+
+- **Frontend**: [Hisaab Frontend (Vercel)](https://hisaab-j3t7.vercel.app/)
+- **Backend**: [Hisaab Backend (Render)](https://hisaab-j0mt.onrender.com)
+
+---
+
 ## 🎯 Vision
 Hisaab aims to transform how creators and businesses analyze and enhance their social media performance. By combining cutting-edge AI technologies with powerful analytics, it empowers users with actionable strategies for growth.
 
