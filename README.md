@@ -42,7 +42,20 @@ Hisaab is your intelligent companion for social media analytics, helping you:
 
 ## 🚀 How It Works
 
+1. **Datastax Astra DB** stores and manages social media engagement data.
 
+2. **Langflow** generates AI-driven insights and content recommendations.
+
+Datastax-Langflow flow:
+    ![Img1](./public/6.png)
+    ![Img1](./public/7.png)
+    ![Img1](./public/8.png)
+
+3. **GROQ** analyzes engagement patterns and predicts performance metrics.
+
+4. **Vite-React** provides an intuitive user interface for data visualization and analytics.
+
+5. **NodeJS/Express** powers the backend server for API calls and data management.
 
 ---
 
@@ -118,8 +131,8 @@ EngageLens aims to revolutionize how creators and businesses understand and opti
 Meet the minds behind EngageLens:
 
 - [Tathagat Sahay](https://github.com/Tathagatsahay)
-- [Aaryan Tripathi](https://github.com/Aaryan1311)
 - [Pragya Dave](https://github.com/pragya0702)
+- [Aaryan Tripathi](https://github.com/Aaryan1311)
 
 <hr>
 <h3>Created with ❤️ by Team RM -RF /*</h3>
