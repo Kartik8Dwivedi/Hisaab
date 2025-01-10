@@ -1,28 +1,28 @@
-<img src="./public/1.png" alt="EngageLens Logo" width="400px">
+<img src="./public/1.png" alt="Hisaab Logo" width="400px">
 
 # Hisaab by Team RM -RF /* 
 
-A powerful social media analytics platform that provides deep insights into your social media engagement through an AI-powered lens. Built for the **Level Supermind Hackathon**, EngageLens leverages **DataStax Astra DB** and **Langflow** to analyze engagement data and deliver actionable insights.  
+An advanced social media analytics platform delivering deep insights into your social media engagement using AI-powered tools. Developed for the Level Supermind Hackathon, Hisaab leverages DataStax Astra DB and Langflow to analyze data and provide actionable recommendations. 
 
 ---
 
 ## 👁️ About Hisaab  
 
 Hisaab is your intelligent companion for social media analytics, helping you:  
-- Analyze engagement patterns across different post types.  
-- Generate AI-powered insights for content optimization.  
-- Visualize performance metrics through an intuitive dashboard.  
-- Track and compare metrics across various content formats.  
+- Analyze engagement trends across various post formats.
+- Generate AI-driven insights to optimize content strategies.
+- Provide performance metrics via an intuitive dashboard.
+- Enable tracking and comparison of metrics across different content types. 
 
 ---
 
 ## 🌟 Key Features  
 
-### **📊 Smart Analytics Dashboard**  
-- Real-time engagement tracking.  
-- Interactive data visualization.  
-- Historical trend analysis.  
-- Performance comparisons.  
+### **📊 Comprehensive Analytics Dashboard**  
+- Real-time engagement monitoring.
+- Interactive data visualizations.
+- Historical performance trend analysis.
+- Comparative insights for better decision-making
 
 ### **🤖 AI-Powered Insights**  
 - GROQ-generated content recommendations.  
@@ -125,7 +125,7 @@ Datastax-Langflow flow:
 ---
 
 ## 🎯 Vision
-EngageLens aims to revolutionize how creators and businesses understand and optimize their social media performance. By combining cutting-edge AI technology with robust analytics, we provide insights that are not just data points, but actionable strategies for growth.
+Hisaab aims to transform how creators and businesses analyze and enhance their social media performance. By combining cutting-edge AI technologies with powerful analytics, it empowers users with actionable strategies for growth.
 
 ## 👥 Team RM -RF /*
 Meet the minds behind EngageLens:
