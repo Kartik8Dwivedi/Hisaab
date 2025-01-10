@@ -45,15 +45,6 @@ Hisaab is your intelligent companion for social media analytics, helping you:
 
 
 ---
-## 🛠️ Tech Stack  
-
-- **DataStax Astra DB**: For database management and operations.  
-- **Langflow**: For workflow creation and GPT integration.  
-- **OpenAI API key**: To generate AI-driven insights.  
-- **Vite-React**: For building the user interface and analytics dashboard.
-- **NodeJS/Express**: Backend Server for API calls and data management.  
-
----
 
 ## 🏗️ How to Get Started
 ## **Run Locally**
@@ -100,7 +91,23 @@ Hisaab is your intelligent companion for social media analytics, helping you:
 
 ---
 
-##
+## Client Side Screenshots
+
+![Img1](./public/3.png)
+
+![Img2](./public/4.png)
+
+![Img3](./public/5.png)
+
+---
+
+## 🛠️ Tech Stack  
+
+- **DataStax Astra DB**: For database management and operations.  
+- **Langflow**: For workflow creation and GPT integration.  
+- **OpenAI API key**: To generate AI-driven insights.  
+- **Vite-React**: For building the user interface and analytics dashboard.
+- **NodeJS/Express**: Backend Server for API calls and data management.  
 
 ---
 
