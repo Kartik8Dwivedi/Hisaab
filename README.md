@@ -91,7 +91,12 @@ Datastax-Langflow flow:
     FLOW_ID=''
     APPLICATION_TOKEN=''
    ```
-4. Start the application:
+
+4. Set up environment variables in frontend folder, under a `.env` file in root directory:
+   ```bash
+    VITE_BACKEND_API=''
+   ```
+5. Start the application:
    ```bash
    cd backend/
    npm run dev
