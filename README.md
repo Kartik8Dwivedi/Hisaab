@@ -2,7 +2,7 @@
 
 # Hisaab by Team RM -RF /* 
 
-An advanced social media analytics platform delivering deep insights into your social media engagement using AI-powered tools. Developed for the Level Supermind Hackathon, Hisaab leverages DataStax Astra DB and Langflow to analyze data and provide actionable recommendations. 
+An advanced social media analytics platform delivering deep insights into your social media engagement using AI-powered tools.Hisaab leverages DataStax Astra DB and Langflow to analyze data and provide actionable recommendations. 
 
 ---
 
